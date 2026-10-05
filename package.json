@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://23cb005-cmd.github.io/counter-random-generator",
+  "homepage": "https://saruumathi2006-cloud.github.io/counter-random-generator",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
